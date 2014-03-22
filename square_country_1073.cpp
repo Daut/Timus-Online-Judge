@@ -1,11 +1,10 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
 
 /***********************************/
 /*     Lagrange square theorem	   */
 /***********************************/
-/*
-#include <iostream>
-#include <cmath>
-using namespace std;
 
 int main() {
 	int quadrics;
@@ -48,4 +47,3 @@ int main() {
 	cout << 4;
 	return 0;
 }
-*/
