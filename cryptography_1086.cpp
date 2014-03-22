@@ -1,4 +1,4 @@
-/*
+
 #include <iostream>
 #include <vector>
 
@@ -8,7 +8,7 @@ using namespace std;
 /* Program used erathosthenes sieve algo to precalculate   */
 /* first 15000 prime numbers.                              */
 /***********************************************************/
-/*
+
 bool is_prime(int num) {
 	for(int i = 3; i < num; i++) {
 		if (num % i == 0) {
@@ -43,4 +43,3 @@ int main() {
 	}
 	return 0;
 }
-*/
